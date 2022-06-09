@@ -1,0 +1,15 @@
+C:\Users\cassio\DiverseDev\dhme_aula06_atividade_2\dhme_aula06_atividade_2_cassio\obj\Debug\net6.0\dhme_aula06_atividade_2_cassio.csproj.AssemblyReference.cache
+C:\Users\cassio\DiverseDev\dhme_aula06_atividade_2\dhme_aula06_atividade_2_cassio\obj\Debug\net6.0\dhme_aula06_atividade_2_cassio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassio\DiverseDev\dhme_aula06_atividade_2\dhme_aula06_atividade_2_cassio\obj\Debug\net6.0\dhme_aula06_atividade_2_cassio.AssemblyInfoInputs.cache
+C:\Users\cassio\DiverseDev\dhme_aula06_atividade_2\dhme_aula06_atividade_2_cassio\obj\Debug\net6.0\dhme_aula06_atividade_2_cassio.AssemblyInfo.cs
+C:\Users\cassio\DiverseDev\dhme_aula06_atividade_2\dhme_aula06_atividade_2_cassio\obj\Debug\net6.0\dhme_aula06_atividade_2_cassio.csproj.CoreCompileInputs.cache
+C:\Users\cassio\DiverseDev\dhme_aula06_atividade_2\dhme_aula06_atividade_2_cassio\bin\Debug\net6.0\dhme_aula06_atividade_2_cassio.exe
+C:\Users\cassio\DiverseDev\dhme_aula06_atividade_2\dhme_aula06_atividade_2_cassio\bin\Debug\net6.0\dhme_aula06_atividade_2_cassio.deps.json
+C:\Users\cassio\DiverseDev\dhme_aula06_atividade_2\dhme_aula06_atividade_2_cassio\bin\Debug\net6.0\dhme_aula06_atividade_2_cassio.runtimeconfig.json
+C:\Users\cassio\DiverseDev\dhme_aula06_atividade_2\dhme_aula06_atividade_2_cassio\bin\Debug\net6.0\dhme_aula06_atividade_2_cassio.dll
+C:\Users\cassio\DiverseDev\dhme_aula06_atividade_2\dhme_aula06_atividade_2_cassio\bin\Debug\net6.0\dhme_aula06_atividade_2_cassio.pdb
+C:\Users\cassio\DiverseDev\dhme_aula06_atividade_2\dhme_aula06_atividade_2_cassio\obj\Debug\net6.0\dhme_aula06_atividade_2_cassio.dll
+C:\Users\cassio\DiverseDev\dhme_aula06_atividade_2\dhme_aula06_atividade_2_cassio\obj\Debug\net6.0\refint\dhme_aula06_atividade_2_cassio.dll
+C:\Users\cassio\DiverseDev\dhme_aula06_atividade_2\dhme_aula06_atividade_2_cassio\obj\Debug\net6.0\dhme_aula06_atividade_2_cassio.pdb
+C:\Users\cassio\DiverseDev\dhme_aula06_atividade_2\dhme_aula06_atividade_2_cassio\obj\Debug\net6.0\dhme_aula06_atividade_2_cassio.genruntimeconfig.cache
+C:\Users\cassio\DiverseDev\dhme_aula06_atividade_2\dhme_aula06_atividade_2_cassio\obj\Debug\net6.0\ref\dhme_aula06_atividade_2_cassio.dll
